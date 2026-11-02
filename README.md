@@ -7,6 +7,7 @@
    <a href="https://www.hnu.edu.cn/" target="_blank" rel="noreferrer"> <img src="https://bkimg.cdn.bcebos.com/pic/2e2eb9389b504fc20964271ae2dde71190ef6df2" alt="HNU" width="80" height="80"/> </a> 
    <a href="https://www.ucas.ac.cn/" target="_blank" rel="noreferrer"> <img src="https://bkimg.cdn.bcebos.com/pic/0df3d7ca7bcb0a46162bebcb6163f6246b60af33" alt="ucas" width="80" height="80"/> </a> 
    <a href="http://www.ict.ac.cn/" target="_blank" rel="noreferrer"> <img src="https://bkimg.cdn.bcebos.com/pic/d0c8a786c9177f3e1e95f4f976cf3bc79e3d56a4" alt="ict" width="80" height="80"/> </a> 
+   <a href="https://www.hku.hk/" target="_blank" rel="noreferrer"> <img src="https://www.hku.hk/etc.clientlibs/hkucms/clientlibs/clientlib-site/resources/icon-192x192.png" alt="The University of Hong Kong (HKU)" width="80" height="80"/> </a> 
 </p>
 
 
