@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Janene</h1>
 
+<p align="center">
+  Ph.D. Student @ <a href="https://www.hku.hk/">HKU</a> · NICE Lab ·
+  <a href="https://janene-li.github.io/"><b>Personal Website</b></a> ·
+  <a href="https://scholar.google.com/citations?user=IKkqR9QAAAAJ">Google Scholar</a>
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Janene-Li&label=Profile%20views&color=0e75b6&style=flat" alt="Janene-Li" /> </p>
 
 <h3 align="left">Universities and Institutions:</h3>
